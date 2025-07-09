@@ -8,5 +8,6 @@ setup(
         "numpy", 
         "scikit-learn",   
         "requests", 
+        "matplotlib",
     ],
 )
